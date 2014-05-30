@@ -2,4 +2,6 @@
 
 " vim colors from /usr/share/vim...
 :syntax on
-:colorscheme koehler
+" :colorscheme koehler
+:set background=dark
+:colorscheme solarized
