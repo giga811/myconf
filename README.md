@@ -2,6 +2,7 @@ myconf
 ======
 
 My confs. Some resources are taken from various sources. All those belong to the original authors.
+Created on 2014/05/30
 
 $ git clone https://github.com/giga811/myconf.git
 
