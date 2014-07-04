@@ -22,7 +22,7 @@ fonts=("banner.flf  bubble.flf   lean.flf      script.flf  small.flf     smslant
 
 # commands
 date="date +%T"
-figlet="figlet -c -W -f $font"
+figlet="figlet -W -f $font"
 watch="watch -t -n1"
 
 $watch "$date | $figlet"
