@@ -11,7 +11,8 @@ set number " show line number
 set title " show file name
 set showmatch " show matching () or {}
 set tabstop=4 " tab = 4 spaces
-set smartindent " auto intend
+set noautoindent " no auto intend
+
 
 " find mode
 set ignorecase " ignore capital
