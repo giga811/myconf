@@ -8,6 +8,7 @@ $ git clone https://github.com/giga811/myconf.git
 
 ## Tmux .tmux.conf:
  Tmux configuration from various sources. May need to change copy-pipe part for Linux.
+need tmux powerline.
 
 ## Vim
  Vim color settings. Color files are from distributed sources.

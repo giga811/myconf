@@ -3,8 +3,8 @@
 " vim colors from /usr/share/vim...
 :syntax on
 " :colorscheme koehler
-:set background=dark
-:colorscheme solarized
+" :set background=dark
+" :colorscheme solarized
 
 " display settings
 set number " show line number
